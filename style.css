@@ -193,11 +193,9 @@ h5 {
     padding-right: 1vw;
 }
 
-.discount {
-    color: white;
-    background-color: rgb(255, 175, 1);
-    padding-left: 1vw;
-    padding-right: 1vw;
+.onSale {
+    color: rgb(255, 175, 1);
+
 }
 
 .not {
